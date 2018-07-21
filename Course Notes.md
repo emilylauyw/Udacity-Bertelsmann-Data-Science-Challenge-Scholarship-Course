@@ -32,26 +32,21 @@ Larger sample size is better with a good mix. In a random sample each subject ha
 #### Survey
 Surveys are being use in social and behavioral science.
 
-| Advantages | Disadvantages|
-|------      |------        |
-| Easy to get info on a population| Untruthful responses|
-|------                           |------               |
-| Relatively inexpensive| Biased responses|
-|------                 |------           |
-| Conducted remotely| Respondents not understanding the qn|
-|------|------|
-| Anyone can access & analyze survey results| Respondents refuse to answer|
 
-| Advantages | Disadvantages   |
-|------|------|
-|   Easy to get info on a population  | Untruthful responses|
-|------|------|
-|   Relatively inexpensive  | Biased responses|
-|------|------|
-|   Conducted remotely  | Respondents not understanding the qn|
-|------|------|
-|   Anyone can access & analyze survey results  | Respondents refuse to answer|
+| Advantages                                    | Disadvantages                       |
+|-----------------------------------------------|-------------------------------------|
+|   Easy to get info on a population            | Untruthful responses                |
+|-----------------------------------------------|-------------------------------------|
+|   Relatively inexpensive                      | Biased responses                    |
+|-----------------------------------------------|-------------------------------------|
+|   Conducted remotely                          | Respondents not understanding the qn|
+|-----------------------------------------------|-------------------------------------|
+|   Anyone can access & analyze survey results  | Respondents refuse to answer        |
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 #### Correlation does not imply Causation.
 - Show Relationships: Observational studies (i.e Survey)
