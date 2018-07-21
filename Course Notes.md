@@ -42,13 +42,16 @@ Surveys are being use in social and behavioral science.
 |------|------|
 | Anyone can access & analyze survey results| Respondents refuse to answer|
 
-| This sdfdsfdsfdsfdsf | is   |
+| Advantages | Disadvantages   |
 |------|------|
-|   a  | table dfsdfdsfsd|
+|   Easy to get info on a population  | Untruthful responses|
+|------|------|
+|   Relatively inexpensive  | Biased responses|
+|------|------|
+|   Conducted remotely  | Respondents not understanding the qn|
+|------|------|
+|   Anyone can access & analyze survey results  | Respondents refuse to answer|
 
-| This | is   |
-|------|------|
-|   a  | table|
 
 #### Correlation does not imply Causation.
 - Show Relationships: Observational studies (i.e Survey)
