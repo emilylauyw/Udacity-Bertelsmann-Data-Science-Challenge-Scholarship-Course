@@ -42,6 +42,8 @@ A variable is a value that may change or differ between individuals in an experi
 
 interval/bin/bucket
 
+#### Histogram:
+
 **Histogram:** is a graphical representation of the distribution of data.
 - Good for visualizing the shape of a distribution.
 - x-axis has the variable you're interested in, broken down into bins.
@@ -49,14 +51,18 @@ interval/bin/bucket
 - Intersection of the axes is origin. Its Cartesian coordinates are (0,0) if we go zero & up in both axes.
 - Bigger bin size means frequency gets bigger (more values will fall inside the bin).
 
-Comparison between Historgram & Bar Graph
+**Comparison between Historgram & Bar Graph**
 ![Histogram vs Bar Graph](Screenshots/01.png "Histogram vs Bar Graph")
 
-| Histogram | Bar graph   |
+|Histogram |Bar Graph|
 |------|------|
-|able to choose any interval or bin size  | table|
-
-Histograms should have a numerical x-axis. If the x-axis is categorical, the graph is called a bar graph instead, and there is usually some space between each bar to indicate that the x-axis is not numerical.
+|No space between each bar| Some space between each bar|
+|------|------|
+|Shape is very important| Shape is not important|
+|------|------|
+|Variable on x-axis is numerical & quantitative| Variable on x-axis is categorical or qualitative|
+|------|------|
+|Order matters, it goes from low to high along x-axis| Order doesn't matter|
 
 
 - Can always be created if you have the frequency table
