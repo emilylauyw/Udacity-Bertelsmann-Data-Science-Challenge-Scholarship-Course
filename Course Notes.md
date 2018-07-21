@@ -32,15 +32,16 @@ Larger sample size is better with a good mix. In a random sample each subject ha
 #### Survey
 Surveys are being use in social and behavioral science.
 
-|Advantages |Disadvantages|
+| Advantages | Disadvantages|
 |------|------|
-|Easy to get info on a population| Untruthful responses|
+| Easy to get info on a population| Untruthful responses|
 |------|------|
-|Relatively inexpensive| Biased responses|
+| Relatively inexpensive| Biased responses|
 |------|------|
-|Conducted remotely| Respondents not understanding the qn|
+| Conducted remotely| Respondents not understanding the qn|
 |------|------|
-|Anyone can access & analyze survey results| Respondents refuse to answer|
+| Anyone can access & analyze survey results| Respondents refuse to answer|
+
 
 #### Correlation does not imply Causation.
 - Show Relationships: Observational studies (i.e Survey)
@@ -79,15 +80,15 @@ is a graphical representation of the distribution of data.
 
 ![Histogram vs Bar Graph](Screenshots/01.png "Histogram vs Bar Graph")
 
-|Histogram |Bar Graph|
+| Histogram | Bar Graph|
 |-------------------------|----------------------------|
-|No space between each bar| Some space between each bar|
+| No space between each bar| Some space between each bar|
 |-----------------------|-----------------------|
-|Shape is very important| Shape is not important|
+| Shape is very important| Shape is not important|
 |----------------------------------------------|-------------------------------------------------|
-|Variable on x-axis is numerical & quantitative| Variable on x-axis is categorical or qualitative|
+| Variable on x-axis is numerical & quantitative| Variable on x-axis is categorical or qualitative|
 |----------------------------------------------------|---------------------|
-|Order matters, it goes from low to high along x-axis| Order doesn't matter|
+| Order matters, it goes from low to high along x-axis| Order doesn't matter|
 
 ### Skewed distribution
 
