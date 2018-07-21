@@ -42,8 +42,6 @@ A variable is a value that may change or differ between individuals in an experi
 
 interval/bin/bucket
 
-#### Histogram:
-
 **Histogram:** is a graphical representation of the distribution of data.
 - Good for visualizing the shape of a distribution.
 - x-axis has the variable you're interested in, broken down into bins.
@@ -55,7 +53,6 @@ interval/bin/bucket
 ![Histogram vs Bar Graph](Screenshots/01.png "Histogram vs Bar Graph")
 
 |Histogram |Bar Graph|
-|------|------|
 |No space between each bar| Some space between each bar|
 |------|------|
 |Shape is very important| Shape is not important|
