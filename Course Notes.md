@@ -95,15 +95,46 @@ is a graphical representation of the distribution of data.
 ![Positive vs Negative Skew](Screenshots/02.png "Positive vs Negative Skew")
 
 ### Central Tendency
+- Measures of the center: Mean, Median & Mode.
 
 Mean
 Average is a statistic that rests at a specific spot in the middle of the distribution
 
+Sample Mean = sum of the values divided by the number of values in the sample
+x̄ = Σ x / n
+
+Population Mean = sum of the values, divided by the number of values in the population
+μ = Σ x / N
+
+- Many samples from the same population will have similar means.
+- The mean of a sample can be used to make inferences about the population it came from.
+- The average can be misleading when we have outliers.
+- Outliers: values that are unexpectedly different from the other observed values. Create skewed distributions by pulling the mean toward the outlier.
+
 Median
-The value in the middle of the distribution is called the median
+The value in the middle of the distribution is called the median.
+- It is not affected by extreme scores (outliers).
+- Put the data in order (i.e least to greatest)
+- Take the average of the two middle numbers when finding the median of data sets with an even number of scores.
+- Best measurement of central tendency when dealing with highly skewed distributions.
+- Formula for even: ((n/2)+(x/2)+1)/2
+- Formula for odd: n+1/2
+
+
 
 Mode
 The value at which the frequency is highest is called the mode.
+- The mode can be used to describe any type of data we have, whether its numerical or categorical.
+- It is not affected by extreme scores (outliers).
+
+
+Unifrom Distribution have no mode.
+
+Bi-modal distribution have 2 mode.
+
+Positive skewed distribution: mode < median < mean
+Normally disributed: mode = median = mean
+
 
 
 
