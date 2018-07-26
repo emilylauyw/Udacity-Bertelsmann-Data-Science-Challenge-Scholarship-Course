@@ -136,6 +136,50 @@ Positive skewed distribution: mode < median < mean
 Normally disributed: mode = median = mean
 
 
+### Variability
+
+![Spread vs Consistent](Screenshots/03.jpg "Spread vs Consistent")
+
+The Blue histogram shows a more consistent distribution. Where the Orange histogram shows a sample that is more spread out.
+
+**Quantify Spreadoutness**
+Range provides a familiar picture of how spread out the data is.
+
+Range: is the difference between the maximum value and the minimum value observed.
+- Range sometimes changes when we add new data to the data set.
+- Outliers increase the variability, but way too much when we use the range as our measure. Not accurate to use in the presence of outliers.
+
+First Quartile
+The first quartile is the point where 25% of the distribution is below that point, and 75% of the data is above that point.
+
+Interquartile Range (aka IQR) = Q3 - Q1
+
+- About 50% of the data falls within the IQR.
+- The IQR is not affected by every value in the dataset, only affected by some of the values.
+- The IQR is affected by outliers.
+
+Outliers
+A value is considered an outlier if:
+- Value < Q1 - 1.5(IQR)
+- Value > Q3 + 1.5(IQR)
+
+- Cut off upper (25%) and lower (25%) tails of the distributions
+
+#### Box Plots (aka Whisker Plots)
+To visualize quartiles and outliers.
+
+![Box Plot](Screenshots/04.png "Box Plot")
+
+- Outliers are represented by dots.
+- The median is always between Q1 and Q3.
+- Mean will not always be between Q1 and Q3.
+
+Different distribution can have the same IQR
+
+![Same IQR](Screenshots/05.png "Same IQR")
+
+Measure variability using all data values
+- Find the average distance between each data value and the mean.
 
 
 ## Python
