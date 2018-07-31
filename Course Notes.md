@@ -120,8 +120,6 @@ The value in the middle of the distribution is called the median.
 - Formula for even: ((n/2)+(x/2)+1)/2
 - Formula for odd: n+1/2
 
-
-
 Mode
 The value at which the frequency is highest is called the mode.
 - The mode can be used to describe any type of data we have, whether its numerical or categorical.
